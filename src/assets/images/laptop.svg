@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="486px" height="331px" viewBox="0 0 486 331" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>macbook air</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="46.96" y="0" width="494.058333" height="323.16568" rx="15.6"></rect>
+        <filter x="-0.1%" y="-0.2%" width="100.2%" height="100.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-0.2%" y="-0.3%" width="100.4%" height="100.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#BCBDBF" offset="0%"></stop>
+            <stop stop-color="#D8D8DF" offset="9.75964605%"></stop>
+            <stop stop-color="#D8D8DF" offset="88.8213489%"></stop>
+            <stop stop-color="#ADAABD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CDCBD5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0.188640146" width="446" height="278.777929"></rect>
+    </defs>
+    <g id="LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-538.000000, -233.000000)" id="Group">
+            <g transform="translate(538.000000, 156.000000)">
+                <g id="macbook-air" transform="translate(0.000000, 77.000000)">
+                    <g id="case">
+                        <g id="screen">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                        </g>
+                        <rect id="front" fill="#FFFFFF" x="0" y="320.227811" width="587" height="3.91715976"></rect>
+                        <path d="M241.648333,320.227811 L346.33,320.227811 L346.33,321.696746 C346.33,322.508016 345.675158,323.16568 344.87017,323.16568 L243.108163,323.16568 C242.301921,323.16568 241.648333,322.513672 241.648333,321.696746 L241.648333,320.227811 Z" id="notch" fill-opacity="0.5" fill="url(#linearGradient-4)"></path>
+                        <path d="M0,324.14497 L294.478333,323.16568 L294.478333,331 C294.478333,331 174.245842,331 93.92,331 C14.1116045,331 0,324.14497 0,324.14497 Z M587,324.14497 C587,324.14497 572.925977,331 493.08,331 C413.218198,331 294.478333,331 294.478333,331 L294.478333,323.16568 L587,324.14497 Z" id="bottom" fill="url(#linearGradient-5)"></path>
+                    </g>
+                    <g id="screen" transform="translate(71.000000, 22.000000)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Mask" fill="#EEF2F4" xlink:href="#path-6"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#425471" x="71" y="22" width="85" height="279"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="219" width="60" height="7" rx="3.5"></rect>
+                    <g id="snippet1" transform="translate(185.000000, 54.000000)">
+                        <rect id="Rectangle" fill="#425471" x="0" y="0" width="288" height="82" rx="5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="19" y="19" width="60" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="94" y="19" width="60" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="165" y="19" width="111" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="68" y="55" width="60" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="139" y="55" width="38" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="188" y="55" width="60" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="19" y="37" width="25" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="55" y="37" width="99" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="165" y="37" width="25" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="201" y="37" width="25" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="237" y="37" width="38" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="19" y="55" width="38" height="7" rx="3.5"></rect>
+                    </g>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="73" width="47" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="91" width="60" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="109" width="24" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="128" width="54" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="146" width="47" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="164" width="60" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="183" width="24" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="201" width="38" height="7" rx="3.5"></rect>
+                    <g id="snippet2" transform="translate(185.000000, 190.000000)">
+                        <rect id="Rectangle" fill="#425471" x="0" y="0" width="288" height="82" rx="5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="19" y="19" width="60" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="90" y="19" width="25" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="126" y="19" width="25" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="162" y="19" width="54" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="227" y="19" width="49" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="19" y="37" width="99" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="126" y="37" width="130" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="19" y="55" width="60" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="90" y="55" width="42" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="143" y="55" width="54" height="7" rx="3.5"></rect>
+                        <rect id="Rectangle-2" fill="#EBEDF1" x="208" y="55" width="54" height="7" rx="3.5"></rect>
+                    </g>
+                    <rect id="Rectangle-2" fill="#EBEDF1" x="85" y="237" width="60" height="7" rx="3.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

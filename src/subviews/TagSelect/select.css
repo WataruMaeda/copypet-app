@@ -1,0 +1,10 @@
+::-webkit-input-placeholder {
+  color: var(--lightGray) !important;
+  font-size: 14px;
+}
+
+#react-select-2-input,
+#react-select-4-input {
+  box-shadow: none !important;
+  outline: 0 none !important;
+}

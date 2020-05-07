@@ -1,0 +1,92 @@
+/* Fill */
+.btn-yellow {
+  background-color: var(--yellow) !important;
+  color: white !important;
+  border-radius: 0.18rem;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-yellow:hover {
+  background-color: var(--orange) !important;
+  color: white !important;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-orange {
+  background-color: var(--orange) !important;
+  color: white !important;
+  border-radius: 0.18rem;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-orange:hover {
+  background-color: var(--yellow) !important;
+  color: white !important;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-red {
+  background-color: var(--red) !important;
+  color: white !important;
+  border-radius: 0.18rem;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-red:hover {
+  background-color: var(--darkRed) !important;
+  color: white !important;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+/* Outline */
+.btn-yellow-outline {
+  border: 0.06rem solid var(--yellow) !important;
+  background-color: white !important;
+  color: var(--yellow);
+  border-radius: 0.18rem;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-yellow-outline:hover {
+  border-color: var(--orange) !important;
+  background-color: var(--orange) !important;
+  color: white;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-black-outline {
+  border: 0.06rem solid var(--black) !important;
+  background-color: white !important;
+  color: var(--black);
+  border-radius: 0.18rem;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-black-outline:hover {
+  border-color: var(--black) !important;
+  background-color: var(--black) !important;
+  color: white;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-red-outline {
+  border: 0.06rem solid var(--red) !important;
+  background-color: white !important;
+  color: var(--red);
+  border-radius: 0.18rem;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn-red-outline:hover {
+  border-color: var(--red) !important;
+  background-color: var(--red) !important;
+  color: white;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+/* common */
+button:disabled,
+button[disabled] {
+  opacity: 0.6;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}

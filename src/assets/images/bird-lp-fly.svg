@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="99px" viewBox="0 0 112 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-595.000000, -172.000000)" id="Group" fill-rule="nonzero">
+            <g transform="translate(538.000000, 156.000000)">
+                <g id="logo" transform="translate(108.478617, 66.317500) rotate(25.000000) translate(-108.478617, -66.317500) translate(48.478617, 21.122694)">
+                    <path d="M66.1716375,89.4946668 C37.1224258,89.4946668 13.5733578,66.4200091 13.5733578,37.9560116 C13.5733578,9.49201401 40.1512685,-12.6602162 59.8738701,8.23802126 C120.076809,72.0297054 119.026714,9.26902343 119.026714,37.733021 C119.026714,66.1970186 95.2208491,89.4946668 66.1716375,89.4946668 Z" id="Shape" fill="#FABF44"></path>
+                    <path d="M33.9333945,30.5095455 C32.491742,30.5095455 31.3231334,29.3712417 31.3231334,27.9670834 C31.3231334,26.562925 32.491742,25.4246213 33.9333945,25.4246213 C35.3749255,25.4246213 36.5436556,26.562925 36.5436556,27.9670834 C36.5436556,29.3712417 35.3749255,30.5095455 33.9333945,30.5095455 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Shape" fill="#EF9748" points="14.6174622 29.4925607 14.6174622 43.7303486 0 36.6114546"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

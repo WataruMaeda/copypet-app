@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+@media (min-width: 140.625vh) and (max-height: 71.11vw) {
+  html {
+    font-size: 2.3578125vh;
+  } /* Common metric, 18px at 1024px height */
+}
+
+@media (max-width: 140.624vh) and (min-height: 71.111vw) {
+  html {
+    font-size: 1.74875vw;
+  } /* Common metric, 18px at 1440px width */
+}
+
+@media (max-width: 576px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  color: var(--black);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+b {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  color: var(--yellow);
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: var(--yellow);
+}
+
+a:hover {
+  color: var(--yellow) !important;
+  text-decoration: underline !important;
+}
+
+textarea:hover,
+textarea:active,
+textarea:focus,
+input[type='text']:focus,
+input[type='password']:focus,
+input[type='datetime']:focus,
+input[type='datetime-local']:focus,
+input[type='date']:focus,
+input[type='month']:focus,
+input[type='time']:focus,
+input[type='week']:focus,
+input[type='number']:focus,
+input[type='email']:focus,
+input[type='url']:focus,
+input[type='search']:focus,
+input[type='tel']:focus,
+input[type='color']:focus,
+.uneditable-input:focus {
+  border-color: var(--darkGray) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+    0 0 8px var(--lightYellowAlpha);
+  outline: 0 none;
+}
+
+input::-webkit-input-placeholder {
+  text-overflow: 'ellipsis !important';
+  color: var(--gray);
+  font-size: 0.8rem;
+}
+
+input:-webkit-autofill {
+  box-shadow: 0 0 0px 1000px var(--lightLightYellowAlpha) inset;
+  transition: background-color 5000s ease-in-out 0s;
+}

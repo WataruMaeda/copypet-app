@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "copypet-demo"
+  },
+  "targets": {
+    "copypet-demo": {
+      "hosting": {
+        "staging": [
+          "copypet-demo-staging"
+        ],
+        "production": [
+          "copypet-demo"
+        ]
+      }
+    }
+  }
+}
